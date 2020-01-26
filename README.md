@@ -20,15 +20,15 @@ Animal Classification using MobileNet from scratch
 # MODEL:
 * Architecture used : MobileNet with Width multiplier=1 & Resolution Multiplier=0.57
 * Dataset Used: Animals-10 provided by Corrado Alessio on Kaggle: https://www.kaggle.com/alessiocorrado99/animals10
-      * Input size: 128x128x3
-      * Output: 10 classes
-      * No of training samples: 26,180
+     * Input size: 128x128x3
+     * Output: 10 classes
+     * No of training samples: 26,180
 * Optimizer Used: RMSprop with learning rate=0.002
 * Loss function: categorical_crossentropy
 * Batch Size: 128
 * No of Epochs: 50
 * **The best result was obtained on 42th epoch with
-      * **Training accuracy: 98.45%**
-      * **Validation acuracy: 75.55%**
+     * **Training accuracy: 98.45%**
+     * **Validation acuracy: 75.55%**
       
  **For more information about MobileNet,Refer to the original paper:**https://arxiv.org/abs/1704.04861
