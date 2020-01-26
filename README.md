@@ -11,6 +11,8 @@ Animal Classification using MobileNet from scratch
 * these parameters allow user to choose the model architecture based on constraints and application
 * The architecture has total **28 layers**(when counted Depthwise Conv & Pointwise Conv as two seperate layers)
 
-
+# Architecture
 ![**Architecture**](https://github.com/yash88600/MobileNet-from-scratch/blob/master/mobilenet%20architecture.png)
 
+# Computational Cost:
+![**Cost**](https://github.com/yash88600/MobileNet-from-scratch/blob/master/mobilenetcomputation%20cost.PNG)
